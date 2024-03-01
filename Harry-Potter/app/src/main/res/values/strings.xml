@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Harry Potter App</string>
+    <string name="transition_name">house</string>
+    <string name="house">house</string>
+</resources>
